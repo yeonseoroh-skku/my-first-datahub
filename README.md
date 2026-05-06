@@ -22,7 +22,7 @@ Bash
 git clone https://github.com/your-username/hello-skku.git
 cd hello-skku
 
-# Install Streamlit
+## Install Streamlit
 pip install streamlit
 3. Launch the App
 Run the following command in your terminal:
