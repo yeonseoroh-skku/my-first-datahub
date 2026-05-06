@@ -3,4 +3,3 @@
 This is my **first** app on Streamlit.
 
 `print("This is my first app on streamlit")`
-*헬로우*
